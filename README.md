@@ -13,8 +13,8 @@ When applied in day to day business common flow designs look like this:
 
 ![Exhibit 3](https://github.com/ccdschool/flow-design-cheatsheet/blob/master/images/real_world_examples/exhibit3.jpg)
 
-Consider them "graphical recordings" of collective thought processes. As such they need not be readily understandable for an outside person. The primary purpose is to develop shared understanding of a solution among participants of a design session - and guide them during the actual coding.
+Consider them "graphic recordings" of collective thought processes. As such they need not be readily understandable for an outside person. The primary purpose is to develop shared understanding of a solution among participants in a design session - and guide them during the actual coding.
 
 This claim of course requires Flow-Design to be clear about the notational elements, how to use them in conjunction, and also how to translate them into code.
 
-If you're interested if Flow-Design lives up to this claim, [check out the wiki of this repository](https://github.com/ccdschool/flow-design-cheatsheet/wiki). It provides a reference to the Flow-Design visual notation and how to derive real code from its "bubbles".
+If you're interested if Flow-Design lives up to this claim, [check out the wiki of this repository](https://github.com/ccdschool/flow-design-cheatsheet/wiki). It provides a reference to the Flow-Design visual notation and how to derive real code from "bubbles".
