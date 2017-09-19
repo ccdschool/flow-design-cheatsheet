@@ -1,5 +1,5 @@
 # Flow-Design Cheat Sheet
-Writing clean code sounds as if you should write code in a certain way. That's certainly true. But what is also true is that writing code is only the last phase of a multi-step process called _software development_. How clean code is thus does not only depend on some coding techniques or pretty printing rules but starts much earlier. For us at the Clean Code Developer School it's firstly a matter of how you think about a solution what makes and keeps your code clean.
+Writing clean code sounds as if you should write code in a certain way. That's certainly true. But what is also true is that writing code is only the last phase of a multi-step process called _software development_. How clean code is thus does not only depend on some coding techniques or pretty printing rules but starts much earlier. For us at the [Clean Code Developer School](http://ccd-school.de) it's firstly a matter of how you think about a solution what makes and keeps your code clean.
 
 After first teaching "raw" [principles and practices of clean coding](http://clean-code-developer.com) in a pretty standard way we developed a more conceptual and more comprehensive method. This method we're calling _Flow-Design (FD)_ and it's an eclectic approach to software development inspired by many sources.
 
